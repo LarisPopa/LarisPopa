@@ -1,13 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Laris Popa
-==================================================================================================================================
+Hi 👋 My name is Laris Popa
+===========================
 
 Full Stack Web Developer
 ------------------------
 
 I am a JavaScript Developer with passion for tech and quality code. I am a full-time FullStack Web Developer
-* 🌍 Interested in remove work
 
-* 🌍  I'm based in Timisoara
+* 🌍  I'm based in Timisoara, Romania
 * ✉️  You can contact me at [popa.laris@yahoo.ro](mailto:popa.laris@yahoo.ro)
 
 ### Skills
