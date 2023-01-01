@@ -4,7 +4,7 @@ Hi 👋 My name is Laris Popa
 Full Stack Web Developer
 ------------------------
 
-I am a JavaScript Developer with passion for tech and quality code. I am a full-time FullStack Web Developer
+I am a JavaScript Developer with passion for tech and quality code. I am a full-time FullStack Web Developer, right now with focus on backend side
 
 * 🌍  I'm based in Timisoara, Romania
 * ✉️  You can contact me at [popa.laris@yahoo.ro](mailto:popa.laris@yahoo.ro)
