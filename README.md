@@ -5,6 +5,7 @@ Full Stack Web Developer
 ------------------------
 
 I am a JavaScript Developer with passion for tech and quality code. I am a full-time FullStack Web Developer
+* 🌍 Interested in remove work
 
 * 🌍  I'm based in Timisoara
 * ✉️  You can contact me at [popa.laris@yahoo.ro](mailto:popa.laris@yahoo.ro)
